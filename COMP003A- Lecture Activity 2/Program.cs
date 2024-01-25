@@ -138,7 +138,7 @@ namespace COMP003A__Lecture_Activity_2
             Console.ForegroundColor = ConsoleColor.Black;
             Console.Title = "Hello World!";
 
-            Console.Beep(440, 1000); 
+            Console.Beep(440, 1000); // hi//
 
 
 
